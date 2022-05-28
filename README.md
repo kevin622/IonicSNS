@@ -1,3 +1,3 @@
 # SNS app built with IONIC
 
-to be filled.
+![ERD](README.assets/cns_erd.drawio.png)
