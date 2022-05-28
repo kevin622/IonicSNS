@@ -44,6 +44,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     'accounts',
+    'posts',
 
     # third party apps
     'rest_framework',
