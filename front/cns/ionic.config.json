@@ -1,0 +1,7 @@
+{
+  "name": "cns",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
