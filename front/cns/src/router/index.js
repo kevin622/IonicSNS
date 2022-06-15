@@ -27,7 +27,11 @@ const routes = [
         component: () => import('@/views/Tab3Page.vue')
       }
     ]
-  }
+  },
+  {
+    path: '/post/create',
+    component: () => import('@/views/PostCreate.vue')
+  },
 ]
 
 const router = createRouter({
